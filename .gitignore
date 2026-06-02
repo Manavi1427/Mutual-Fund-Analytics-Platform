@@ -1,0 +1,7 @@
+.venv
+*.db
+*.sqlite3
+data/raw/
+.env
+__pycache__/
+.ipynb_checkpoints/
